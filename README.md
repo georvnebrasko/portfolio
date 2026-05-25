@@ -71,6 +71,6 @@ Game Development
 Направление: Веб-разработка
 
 ## Текущие проекты
-- [FitTrack](https://github.com/vnebrasko/FitTrack)
-- [poke-runner](https://github.com/vnebrasko/poke-runner)
-- [jobpilot](https://github.com/vnebrasko/jobpilot)
+- [FitTrack](https://github.com/georvnebrasko/FitTrack)
+- [poke-runner](https://github.com/georvnebrasko/poke-runner)
+- [jobpilot](https://github.com/georvnebrasko/jobpilot)
