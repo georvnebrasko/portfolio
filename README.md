@@ -1,8 +1,8 @@
 # Георгий Цомаев
 
 ## Контактные данные
-Telegram: @Vnebrasko 
-Email: im01sad@gmail.com
+- Telegram: @Vnebrasko 
+- Email: im01sad@gmail.com
 
 ## Опыт
 
