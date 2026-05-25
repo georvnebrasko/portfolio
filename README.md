@@ -1,4 +1,4 @@
-# Георгий Цомаев
+## Георгий Цомаев
 
 # Контактные данные
 
@@ -13,7 +13,6 @@ Email: im01sad@gmail.com
 
 Разработка веб-приложений и пользовательских интерфейсов с использованием React, Node.js, JavaScript, REST API и GitHub.
 
-
 # NebulaForge Studio
 
 Роль: Frontend & Game Developer
@@ -21,7 +20,6 @@ Email: im01sad@gmail.com
 Разработка indie game-проектов, UI интерфейсов и клиентской части приложений.
 
 Работа с Godot, React, Node.js и системами взаимодействия клиента и сервера.
-
 
 # Freelance Media Designer
 
