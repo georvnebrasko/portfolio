@@ -9,9 +9,9 @@
 ### Freelance Frontend Developer
 Роль: Frontend Developer
 
-Разработка веб-приложений и пользовательских интерфейсов с использованием React, Node.js, JavaScript, REST API и GitHub.
+Разработка веб-приложений и пользовательских интерфейсов с использованием React, Node.js, JavaScript и т.д.
 
-### NebulaForge Studio
+### Script Studio-Squad
 Роль: Frontend & Game Developer
 
 Разработка indie game-проектов, UI интерфейсов и клиентской части приложений.
